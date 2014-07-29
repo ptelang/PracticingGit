@@ -10,7 +10,7 @@ If you are a student [click here](https://github.com/kjlubick/PracticingGit/blob
 
 Contributors:
 
-* Kevin Lubick
+* Pankaj Telang
 * [Fork the repository, make a pull request and see your name here!]
-* [training aid #1]
+* Megan Johnson
 * [training aid #2]
